@@ -1,4 +1,4 @@
-module smtp
+module github.com/mailcache/smtp
 
 go 1.26.5
 
